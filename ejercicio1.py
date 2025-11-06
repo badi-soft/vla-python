@@ -1,3 +1,6 @@
 
-nombre = "Christian Badilla Gonzalez"
+nombre = "Christian"
 print(nombre)
+
+apellidos = "Badilla Gonzalez"
+print(apellidos)
