@@ -1,6 +1,6 @@
 
-nombre = "Christian"
-print(nombre)
+nombrePersona = "Christian"
+print(nombrePersona)
 
 apellidos = "Badilla Gonzalez"
 print(apellidos)
